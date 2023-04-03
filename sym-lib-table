@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "REB_Connector")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Conn_Molex_67298-3090/eec.lib")(options "")(descr ""))
+)

@@ -1,0 +1,65 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Molex 67298-3090
+#
+DEF 67298-3090 J 0 0 Y Y 1 L N
+F0 "J" 0 300 50 H V L CNN 
+F1 "67298-3090" 0 400 50 H V L CNN 
+F2 "Molex-67298-3090-*" 0 500 50 H I L CNN 
+F3 "http://datasheet.octopart.com/67298-3090-Molex-datasheet-166208.pdf" 0 600 50 H I L CNN 
+F4 "Conn" 0 700 50 H I L CNN "category"
+F5 "USB - A, Stacked Receptacle Connector 8 Position Through Hole, Right Angle, Horizontal" 0 800 50 H I L CNN "digikey description"
+F6 "WM4073-ND" 0 900 50 H I L CNN "digikey part number"
+F7 "yes" 0 1000 50 H I L CNN "is connector"
+F8 "yes" 0 1100 50 H I L CNN "is male"
+F9 "yes" 0 1200 50 H I L CNN "lead free"
+F10 "2fd3dec78e0e25be" 0 1300 50 H I L CNN "library id"
+F11 "Molex" 0 1400 50 H I L CNN "manufacturer"
+F12 "538-67298-3090" 0 1500 50 H I L CNN "mouser part number"
+F13 "CONN_USB_PTH_RA" 0 1600 50 H I L CNN "package"
+F14 "yes" 0 1700 50 H I L CNN "rohs"
+F15 "+50°C" 0 1800 50 H I L CNN "temperature range high"
+F16 "0°C" 0 1900 50 H I L CNN "temperature range low"
+DRAW
+X 1 1 -100 0 100 L 40 40 1 1 U 
+X 2 2 -100 -200 100 L 40 40 1 1 U 
+X 3 3 -100 -400 100 L 40 40 1 1 U 
+X 4 4 -100 -600 100 L 40 40 1 1 U 
+X 1' 5 -100 -800 100 L 40 40 1 1 U 
+X 2' 6 -100 -1000 100 L 40 40 1 1 U 
+X 3' 7 -100 -1200 100 L 40 40 1 1 U 
+X 4' 8 -100 -1400 100 L 40 40 1 1 U 
+X MNT_1 9 -100 -1600 100 L 40 40 1 1 U 
+X MNT_2 10 -100 -1800 100 L 40 40 1 1 U 
+X MNT_3 11 -100 -2000 100 L 40 40 1 1 U 
+X MNT_4 12 -100 -2200 100 L 40 40 1 1 U 
+S -700 200 -200 -2400 1 1 0 f
+S -500 20 -330 -10 1 1 0 F
+P 2 1 1 0 -420 0 -200 0 N
+S -500 -180 -330 -210 1 1 0 F
+P 2 1 1 0 -420 -200 -200 -200 N
+S -500 -380 -330 -410 1 1 0 F
+P 2 1 1 0 -420 -400 -200 -400 N
+S -500 -580 -330 -610 1 1 0 F
+P 2 1 1 0 -420 -600 -200 -600 N
+S -500 -780 -330 -810 1 1 0 F
+P 2 1 1 0 -420 -800 -200 -800 N
+S -500 -980 -330 -1010 1 1 0 F
+P 2 1 1 0 -420 -1000 -200 -1000 N
+S -500 -1180 -330 -1210 1 1 0 F
+P 2 1 1 0 -420 -1200 -200 -1200 N
+S -500 -1380 -330 -1410 1 1 0 F
+P 2 1 1 0 -420 -1400 -200 -1400 N
+S -500 -1580 -330 -1610 1 1 0 F
+P 2 1 1 0 -420 -1600 -200 -1600 N
+S -500 -1780 -330 -1810 1 1 0 F
+P 2 1 1 0 -420 -1800 -200 -1800 N
+S -500 -1980 -330 -2010 1 1 0 F
+P 2 1 1 0 -420 -2000 -200 -2000 N
+S -500 -2180 -330 -2210 1 1 0 F
+P 2 1 1 0 -420 -2200 -200 -2200 N
+ENDDRAW
+ENDDEF
+#
+# End Library

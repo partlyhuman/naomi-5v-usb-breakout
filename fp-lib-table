@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "REB_Connector")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Conn_Molex_67298-3090/eec.pretty")(options "")(descr ""))
+)
