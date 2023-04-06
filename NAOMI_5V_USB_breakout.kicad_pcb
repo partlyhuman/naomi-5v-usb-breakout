@@ -289,10 +289,10 @@
       (net 4 "unconnected-(J1-MNT_3-Pad11)") (pinfunction "MNT_3") (pintype "unspecified+no_connect") (tstamp 4d49f1ca-cc8a-4e4b-a137-d416a0404333))
     (pad "12" thru_hole circle (at -6.57 -7.309999 180) (size 2.9 2.9) (drill 2.3) (layers "*.Cu" "*.Mask")
       (net 3 "unconnected-(J1-MNT_4-Pad12)") (pinfunction "MNT_4") (pintype "unspecified+no_connect") (tstamp 02addf79-0b5e-446a-878d-3ea9d2def77c))
-    (model "eec.models/Molex_-_67298-3090.step"
-      (offset (xyz 0 0 0))
+    (model "${KIPRJMOD}/Libraries/Conn_Molex_67298-3090/eec.models/Molex_-_67298-3090.step"
+      (offset (xyz 0 -8 8))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 180))
     )
   )
 
